@@ -29,8 +29,9 @@ npm run build
 npm start
 ```
 
+## Folder Structure
+
 ```
-Folder Structure
 simple-crud/
 ├─ src/
 │  ├─ controllers/
@@ -46,3 +47,9 @@ simple-crud/
 * models/ → Mongoose schemas for Persons
 * controllers/ → Functions for handling requests.
 * routes/ → REST endpoints.
+
+## Screenshots
+
+<img width="1440" height="816" alt="image" src="https://github.com/user-attachments/assets/804362ec-612d-4ac9-967b-29c82d1b4c42" />
+
+<img width="1440" height="818" alt="image" src="https://github.com/user-attachments/assets/1496110e-9d5a-46de-b42a-2c701bf32b1d" />
