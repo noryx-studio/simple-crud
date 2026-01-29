@@ -55,7 +55,7 @@ simple-crud/
 
 ## Endpoints
 
-### **Person Routes**
+### Person Routes
 
 ---
 
