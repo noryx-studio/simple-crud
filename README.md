@@ -51,7 +51,23 @@ simple-crud/
 * models/ → Mongoose schemas for Persons.
 * controllers/ → Functions for handling requests.
 * routes/ → REST endpoints.
-* docs/ -> Swagger API documentation.
+* docs/ → Swagger API documentation.
+
+## Endpoints
+
+### **Person Routes**
+
+---
+
+| Method | Route          | Description                  |
+|--------|----------------|------------------------------|
+| POST   | `/persons`     | Create a new person          |
+| GET    | `/persons`     | List your persons            |
+| GET    | `/persons/:id` | Get person by ID             |
+| PATCH  | `/persons/:id` | Update person by ID          |
+| DELETE | `/persons/:id` | Delete person by ID          |
+
+---
 
 ## Screenshots
 
