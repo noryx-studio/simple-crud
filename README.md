@@ -16,7 +16,7 @@ Copy the .env.example file, rename it to .env, and edit the .env file with your 
 
 ### 3. Run the server
 
-Development mode
+Development mode:
 
 ```bash
 npm run dev
@@ -24,7 +24,7 @@ npm run dev
 
 Server will start on http://localhost:8800 by default.
 
-Production mode
+Production mode:
 
 ```bash
 
@@ -38,6 +38,7 @@ npm start
 simple-crud/
 ├─ src/
 │  ├─ controllers/
+│  ├─ docs/
 │  ├─ models/
 │  ├─ routes/
 │  ├─ middleware/
@@ -47,9 +48,10 @@ simple-crud/
 └─ .env
 ```
 
-* models/ → Mongoose schemas for Persons
+* models/ → Mongoose schemas for Persons.
 * controllers/ → Functions for handling requests.
 * routes/ → REST endpoints.
+* docs/ -> Swagger API documentation.
 
 ## Screenshots
 
