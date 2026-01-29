@@ -11,7 +11,10 @@ npm install
 
 ```
 
-### 2. Run the server
+### 2. Set up environment variables
+Copy the .env.example file, rename it to .env, and edit the .env file with your environment-specific values.
+
+### 3. Run the server
 
 Development mode
 
